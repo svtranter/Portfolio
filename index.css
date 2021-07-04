@@ -1,0 +1,16 @@
+body {
+    background-color: mediumpurple;
+}
+
+#navbar, .navbar-brand, .nav-item, #about {
+    background-color: blueviolet;
+    color: white;
+}
+
+#photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    border-radius: 50%;
+}
